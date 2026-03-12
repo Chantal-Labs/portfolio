@@ -10,7 +10,7 @@ Hier documenteer ik labs en projecten die ik maak tijdens mijn voorbereiding op 
 ## LABS
 
 ### Lab 1 - Virtual Machine
-**Status Completed**
+**Status: Completed**
 - Resource group gemaakt
 - Virtual machine gedeployed
 - VM gestart en gestopt
