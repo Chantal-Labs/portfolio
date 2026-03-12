@@ -21,7 +21,7 @@ Hier documenteer ik labs en projecten die ik maak tijdens mijn voorbereiding op 
 - Subnet-01 toegevoegd
 - NSG gekoppeld
 
-  Screenshot: VNet-Lab.png
+  Screenshot: [VNET Lab] (VNet-Lab.png)
 
 ## Upcoming Labs
 
