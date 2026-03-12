@@ -10,16 +10,20 @@ Hier documenteer ik labs en projecten die ik maak tijdens mijn voorbereiding op 
 ## LABS
 
 ### Lab 1 - Virtual Machine
+** Status Completed**
 - Resource group gemaakt
 - Virtual machine gedeployed
 - VM gestart en gestopt
 
-## Upcoming Labs
-
 ### Lab 2 - Virtual Network
-- Virtual network maken
-- Subnet toevoegen
-- VM koppelen aan netwerk
+**Status: Completed**
+- Virtual network gemaakt
+- Subnet-01 toegevoegd
+- NSG gekoppeld
+
+  Screenshot: VNet-Lab.png
+
+## Upcoming Labs
 
 ### Lab 3 - Storage account 
 - Storage account maken
