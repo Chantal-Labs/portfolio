@@ -21,7 +21,7 @@ Hier documenteer ik labs en projecten die ik maak tijdens mijn voorbereiding op 
 - Subnet-01 toegevoegd
 - NSG gekoppeld
 
-  Screenshot: ![VNET Lab] (VNet-Lab.png)
+  Screenshot: ![VNET Lab.png]
 
 ### Lab 3 - Storage account 
 **Status: Completed**
@@ -29,7 +29,7 @@ Hier documenteer ik labs en projecten die ik maak tijdens mijn voorbereiding op 
 - Blob container gemaakt ('lab3-container')
 - Bestand geüpload ('Schermafbeelding 2026-03-16 103144.png')
 
-  Screenshot: ![Lab 3 - ]
+  Screenshot: ![Storage.png & Container + Image.png]
 
 ## Upcoming Labs
 
