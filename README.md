@@ -21,14 +21,17 @@ Hier documenteer ik labs en projecten die ik maak tijdens mijn voorbereiding op 
 - Subnet-01 toegevoegd
 - NSG gekoppeld
 
-  Screenshot: [VNET Lab] (VNet-Lab.png)
-
-## Upcoming Labs
+  Screenshot: ![VNET Lab] (VNet-Lab.png)
 
 ### Lab 3 - Storage account 
-- Storage account maken
-- Blob container maken
-- Bestand uploaden
+**Status: Completed**
+- Storage account aangemaakt
+- Blob container gemaakt ('lab3-container')
+- Bestand geüpload ('Schermafbeelding 2026-03-16 103144.png')
+
+  Screenshot: ![Lab 3 - ]
+
+## Upcoming Labs
 
 ### Lab 4 - RBAC (Access Control)
 - IAM roles toevoegen
