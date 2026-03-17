@@ -31,11 +31,16 @@ Hier documenteer ik labs en projecten die ik maak tijdens mijn voorbereiding op 
 
   Screenshot: ![Storage.png & Container + Image.png]
 
-## Upcoming Labs
-
 ### Lab 4 - RBAC (Access Control)
-- IAM roles toevoegen
-- Reader Role testen
+**Status: Completed**
+
+- Role assignment toegevoegd
+- Rollen: Reader + Contributor
+- Toegewezen aan eigen user
+
+  Screenshot: ![Access Control - IAM]
+
+## Upcoming Labs
 
 ## Tools
 - Microsoft Azure
