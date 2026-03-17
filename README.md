@@ -42,6 +42,16 @@ Hier documenteer ik labs en projecten die ik maak tijdens mijn voorbereiding op 
 
 ## Upcoming Labs
 
+### Lab 6 - Backup
+
+- Backup instellen voor VM of Storage
+- Recovery Services Vault gebruiken
+
+### Lab 7 - Monitoring / Alerts
+
+- Metrics monitoren en alerts instellen
+- Alerts instellen voor CPU en netwerk
+
 ## Tools
 - Microsoft Azure
 - Azure Portal
