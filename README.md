@@ -38,7 +38,7 @@ Hier documenteer ik labs en projecten die ik maak tijdens mijn voorbereiding op 
 - Rollen: Reader + Contributor
 - Toegewezen aan eigen user
 
-  Screenshot: ![Access Control - IAM]
+  Screenshot: ![Access Control - IAM.png]
 
 ## Upcoming Labs
 
